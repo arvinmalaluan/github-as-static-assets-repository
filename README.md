@@ -1,0 +1,1 @@
+# github-as-static-assets-repository
